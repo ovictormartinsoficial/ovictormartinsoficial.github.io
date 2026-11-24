@@ -9,3 +9,6 @@ Public website for the Kombat Timer Android app, hosted with GitHub Pages at `ht
 ## AdMob setup later
 
 Once the AdMob account supplies the real publisher ID, publish its exact authorized-sellers line as `app-ads.txt` at this repository root. Do not use a sample publisher ID. Add this website URL to the app's Google Play store listing and verify the file in AdMob. Review the privacy policy and Play data safety declarations before distributing an ad-enabled app.
+
+## Scarlet Cycle
+Site: /scarlet-cycle/; privacy: /scarlet-cycle/privacidade.html; support: /scarlet-cycle/suporte.html. Root app-ads.txt authorizes the owner's AdMob publisher account. Application source code and user records are not included.
